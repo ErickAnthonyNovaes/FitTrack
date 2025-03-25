@@ -1,5 +1,5 @@
 # FitTrack
-Um site com uma Web Api feita com C# e MySQL.
+Um site com uma Web Api feita com C# e MySQL, sobre cadastros de exercicios.
 
 # Participantes
 1. Erick
